@@ -263,10 +263,10 @@ Create `integration/A-B` when:
 3. You find yourself wanting to add `component/B` as a dependency of `component/A`
 
 ```kotlin
-// integration/sensor-glucose/domain/usecase/SyncSensorGlucoseUseCase.kt
-class SyncSensorGlucoseUseCase(
-    private val sensorRepository: SensorRepository,    // from component/sensor
-    private val glucoseRepository: GlucoseRepository,  // from component/glucose
+// integration/order-payment/domain/usecase/PlaceOrderUseCase.kt
+class PlaceOrderUseCase(
+    private val orderRepository: OrderRepository,      // from component/order
+    private val paymentRepository: PaymentRepository,  // from component/payment
 )
 ```
 
