@@ -1,6 +1,6 @@
 ---
 name: paparazzi-editor
-description: Guide for writing screenshot/snapshot tests for Jetpack Compose UI using Paparazzi. Use when adding visual regression tests for new screens or components, recording new snapshots, or diagnosing snapshot failures in CI.
+description: Writes screenshot and snapshot tests for Jetpack Compose UI using Paparazzi. Use when user asks to "add snapshot tests", "visual regression test", "screenshot test with Paparazzi", or "record UI baselines".
 ---
 
 # Paparazzi Editor

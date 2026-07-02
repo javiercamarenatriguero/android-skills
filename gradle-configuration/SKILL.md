@@ -1,6 +1,6 @@
 ---
 name: gradle-configuration
-description: Guide for configuring Gradle builds for Android projects using Version Catalogs, Kotlin DSL, and best practices for dependency management. Use when adding dependencies, updating versions, resolving conflicts, or optimizing build performance.
+description: Configures Gradle builds for Android using Version Catalogs and Kotlin DSL. Use when user asks to "add a dependency", "configure Gradle", "update a library version", "set up a version catalog", or "resolve a build conflict".
 ---
 
 # Gradle Configuration

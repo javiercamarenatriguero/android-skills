@@ -1,6 +1,6 @@
 ---
 name: kotlin-convention
-description: Guide for writing idiomatic, clean, and maintainable Kotlin code. Use when reviewing Kotlin code style, applying language best practices, or onboarding engineers to Kotlin conventions for Android projects.
+description: Writes idiomatic, clean Kotlin following Android conventions. Use when user asks for "Kotlin code review", "is this idiomatic Kotlin", "Kotlin style check", "how to write this in Kotlin", or to "follow Kotlin best practices".
 ---
 
 # Kotlin Convention

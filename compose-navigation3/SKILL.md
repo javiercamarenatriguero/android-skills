@@ -1,6 +1,6 @@
 ---
 name: compose-navigation3
-description: Implements type-safe navigation using Jetpack Navigation 3 (Nav3) with Compose. Use when adding new screens, wiring navigation flows, or passing results between destinations. Covers NavKey routes, NavDisplay setup, navigator abstractions, and cross-screen ResultStore.
+description: Implements type-safe navigation using Jetpack Navigation 3 (Nav3) with Compose. Use when user asks to "add a new screen", "wire navigation", "pass results between screens", "set up Nav3", or "navigate to a destination". Covers NavKey routes, NavDisplay, navigator abstractions, and ResultStore.
 ---
 
 # Compose Navigation 3

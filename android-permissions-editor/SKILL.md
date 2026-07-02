@@ -1,6 +1,6 @@
 ---
 name: android-permissions-editor
-description: Guide for architecting Android runtime permissions across a multi-module project. Use when deciding where PermissionState, PermissionManager, and UI flows live, or when implementing permission requests following Clean Architecture (component/feature/app layers).
+description: Architects Android runtime permissions across multi-module projects following Clean Architecture. Use when user asks to "request a permission", "handle runtime permission", "camera permission", "location permission", or "structure permissions in Clean Architecture".
 ---
 
 # Android Permissions (Multi-Module Architecture)

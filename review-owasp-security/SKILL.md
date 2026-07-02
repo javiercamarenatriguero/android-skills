@@ -1,6 +1,7 @@
 ---
 name: review-owasp-security
-description: Reviews code against OWASP MASVS (Mobile Application Security Verification Standard) controls. Use when code handles sensitive data, authentication, networking, local storage, or deep links. Reports findings as PASS / WARN / FAIL.
+description: Reviews code against OWASP MASVS (Mobile Application Security Verification Standard) controls. Use when user says "security review", "check for vulnerabilities", "OWASP audit", or when code handles sensitive data, authentication, networking, local storage, or deep links. Reports findings as PASS / WARN / FAIL.
+allowed-tools: Read, Grep, Glob
 ---
 
 # OWASP MASVS Security Review

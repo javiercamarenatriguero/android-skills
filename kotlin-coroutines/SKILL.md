@@ -1,6 +1,6 @@
 ---
 name: kotlin-coroutines
-description: Guide for writing correct, performant, and idiomatic Kotlin Coroutines code. Use when implementing async operations, reactive streams with Flow/StateFlow/SharedFlow, or reviewing coroutine usage for correctness and performance issues.
+description: Writes correct, performant Kotlin Coroutines and Flow code following structured concurrency. Use when user asks to "use coroutines", "implement async", "how does StateFlow work", "collect a Flow", or "fix a coroutine issue".
 ---
 
 # Kotlin Coroutines
