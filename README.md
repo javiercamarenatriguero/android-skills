@@ -6,21 +6,23 @@ A collection of **project-agnostic** skills for Android development. These skill
 
 ## Skills Catalog
 
-| Skill | Description | Key Topics |
-|-------|-------------|------------|
-| [android-modularization](./android-modularization/SKILL.md) | Multi-module architecture with 4-layer separation | App / Feature / Component / Common, dependency rules, integration modules |
-| [mvi-editor](./mvi-editor/SKILL.md) | Model-View-Intent pattern from scratch | ViewState, ViewEvent, SideEffect, ViewModel, Screen wiring, navigation side effects |
-| [compose-editor](./compose-editor/SKILL.md) | Jetpack Compose UI development patterns | State hoisting, side effects, accessibility, lazy lists, theming, best practices |
-| [compose-performance-auditor](./compose-performance-auditor/SKILL.md) | Compose runtime performance review | Recomposition smells, stability, `derivedStateOf`, `remember`, phase deferral |
-| [kotlin-coroutines](./kotlin-coroutines/SKILL.md) | Coroutines and Flow best practices | Structured concurrency, dispatchers, StateFlow, SharedFlow, error handling, testing |
-| [kotlin-convention](./kotlin-convention/SKILL.md) | Kotlin idioms and code conventions | Naming, null safety, sealed interfaces, value classes, collections, error handling |
-| [gradle-convention-plugin](./gradle-convention-plugin/SKILL.md) | Creating and using Gradle Convention Plugins | Plugin authoring, shared config, module templates, buildSrc vs included builds |
-| [gradle-configuration](./gradle-configuration/SKILL.md) | Gradle project configuration | Version catalogs, dependency scopes, conflict resolution, build performance |
-| [koin-editor](./koin-editor/SKILL.md) | Dependency injection with Koin | Module definition, scopes, qualifiers, testing overrides, multi-module setup |
-| [android-unit-test-editor](./android-unit-test-editor/SKILL.md) | Unit testing for Android with MockK | GIVEN/WHEN/THEN naming, UseCase/ViewModel/Repository templates, Turbine, coroutines |
-| [paparazzi-editor](./paparazzi-editor/SKILL.md) | Snapshot testing with Paparazzi | Setup, multi-state tests, dark mode, device configs, CI integration |
-| [github-action-editor](./github-action-editor/SKILL.md) | GitHub Actions for Android CI/CD | Workflow structure, caching, matrix builds, secrets, artifact uploads, optimization |
-| [android-permissions-editor](./android-permissions-editor/SKILL.md) | Android runtime permissions | PermissionState model, rationale dialogs, permanently denied, Compose integration, MVI wiring |
+| Skill                                                                 | Description                                       | Key Topics                                                                                         |
+|-----------------------------------------------------------------------|---------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| [android-modularization](./android-modularization/SKILL.md)           | Multi-module architecture with 4-layer separation | App / Feature / Component / Common, dependency rules, integration modules                          |
+| [mvi-editor](./mvi-editor/SKILL.md)                                   | Model-View-Intent pattern from scratch            | ViewState, ViewEvent, SideEffect, ViewModel, Screen wiring, navigation side effects                |
+| [compose-editor](./compose-editor/SKILL.md)                           | Jetpack Compose UI development patterns           | State hoisting, side effects, accessibility, lazy lists, theming, best practices                   |
+| [compose-performance-auditor](./compose-performance-auditor/SKILL.md) | Compose runtime performance review                | Recomposition smells, stability, `derivedStateOf`, `remember`, phase deferral                      |
+| [kotlin-coroutines](./kotlin-coroutines/SKILL.md)                     | Coroutines and Flow best practices                | Structured concurrency, dispatchers, StateFlow, SharedFlow, error handling, testing                |
+| [kotlin-convention](./kotlin-convention/SKILL.md)                     | Kotlin idioms and code conventions                | Naming, null safety, sealed interfaces, value classes, collections, error handling                 |
+| [gradle-convention-plugin](./gradle-convention-plugin/SKILL.md)       | Creating and using Gradle Convention Plugins      | Plugin authoring, shared config, module templates, buildSrc vs included builds                     |
+| [gradle-configuration](./gradle-configuration/SKILL.md)               | Gradle project configuration                      | Version catalogs, dependency scopes, conflict resolution, build performance                        |
+| [koin-editor](./koin-editor/SKILL.md)                                 | Dependency injection with Koin                    | Module definition, scopes, qualifiers, testing overrides, multi-module setup                       |
+| [android-unit-test-editor](./android-unit-test-editor/SKILL.md)       | Unit testing for Android with MockK               | GIVEN/WHEN/THEN naming, UseCase/ViewModel/Repository templates, Turbine, coroutines                |
+| [paparazzi-editor](./paparazzi-editor/SKILL.md)                       | Snapshot testing with Paparazzi                   | Setup, multi-state tests, dark mode, device configs, CI integration                                |
+| [github-action-editor](./github-action-editor/SKILL.md)               | GitHub Actions for Android CI/CD                  | Workflow structure, caching, matrix builds, secrets, artifact uploads, optimization                |
+| [android-permissions-editor](./android-permissions-editor/SKILL.md)   | Android runtime permissions                       | PermissionState model, rationale dialogs, permanently denied, Compose integration, MVI wiring      |
+| [compose-navigation3](./compose-navigation3/SKILL.md)                 | Type-safe navigation with Jetpack Navigation 3    | NavKey routes, NavDisplay, navigator abstractions, ResultStore, cross-screen results, transitions  |
+| [review-owasp-security](./review-owasp-security/SKILL.md)             | OWASP MASVS security review                       | Data storage, networking, authentication, deep links, permissions, secrets — PASS/WARN/FAIL report |
 
 ---
 
