@@ -1,6 +1,6 @@
 ---
 name: github-action-editor
-description: Guide for writing and maintaining GitHub Actions workflows for Android projects. Use when creating new CI pipelines, adding workflow steps, debugging failing actions, or optimizing build times with caching and parallelization.
+description: Creates and maintains GitHub Actions CI/CD workflows for Android projects. Use when user asks to "set up CI", "create a GitHub Action", "add a CI pipeline", "configure GitHub Actions for Android", or "optimize build times".
 ---
 
 # GitHub Action Editor

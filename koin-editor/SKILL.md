@@ -1,6 +1,6 @@
 ---
 name: koin-editor
-description: Guide for setting up and using Koin for Dependency Injection in Android (and KMP) projects. Use when configuring DI modules, registering new dependencies, setting up scopes, testing with Koin, or troubleshooting injection failures.
+description: Configures and uses Koin for Dependency Injection in Android and KMP projects. Use when user asks to "set up Koin", "add dependency injection", "register a new dependency", "create a Koin module", or troubleshoot injection failures.
 ---
 
 # Koin Editor

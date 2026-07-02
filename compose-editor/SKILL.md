@@ -1,6 +1,6 @@
 ---
 name: compose-editor
-description: Guide for writing idiomatic, maintainable, and accessible Jetpack Compose UI. Use when creating new screens or components, reviewing existing Compose code, or refactoring XML layouts to Compose.
+description: Writes idiomatic, maintainable, and accessible Jetpack Compose UI. Use when user asks to "create a composable", "write a Compose screen", "build a UI component", "review Compose code", or "refactor XML to Compose".
 ---
 
 # Compose Editor

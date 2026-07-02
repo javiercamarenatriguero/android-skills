@@ -1,6 +1,6 @@
 ---
 name: compose-performance-auditor
-description: Audit and fix Jetpack Compose runtime performance issues. Use when diagnosing slow rendering, janky scrolling, excessive recompositions, or frame drops in Compose UI. Performs code-first review and guides profiling when needed.
+description: Audits and fixes Jetpack Compose runtime performance issues. Use when user says "Compose is slow", "too many recompositions", "janky scrolling", "frame drops", or asks to "optimize Compose UI". Performs code-first review and guides profiling when needed.
 ---
 
 # Compose Performance Auditor

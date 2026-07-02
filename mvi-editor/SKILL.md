@@ -1,6 +1,6 @@
 ---
 name: mvi-editor
-description: Guide for implementing the MVI (Model-View-Intent) pattern in Android with Jetpack Compose. Use when creating new screens, adding state management, or refactoring existing ViewModels to follow unidirectional data flow. Fully self-contained — no external MVI library required.
+description: Implements the MVI (Model-View-Intent) pattern for Android with Jetpack Compose, library-free. Use when user asks to "create a new screen", "add a ViewModel", "implement MVI", "add state management", or "set up unidirectional data flow".
 ---
 
 # MVI Editor

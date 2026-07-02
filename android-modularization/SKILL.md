@@ -1,6 +1,6 @@
 ---
 name: android-modularization
-description: Guide for designing and enforcing a clean multi-module Android architecture with strict layer isolation. Use when creating new modules, deciding where code belongs, resolving inter-module dependencies, or enforcing dependency rules across App, Feature, Component, and Common layers.
+description: Designs and enforces a clean multi-module Android architecture with strict layer isolation. Use when user asks "where should this code go", "create a new module", "fix a circular dependency", "what layer does this belong in", or "set up module architecture".
 ---
 
 # Android Modularization

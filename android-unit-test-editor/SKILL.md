@@ -1,6 +1,6 @@
 ---
 name: android-unit-test-editor
-description: Guide for writing unit tests for Android Kotlin code — ViewModels, Use Cases, Repositories, and utility classes. Uses MockK and Kotlin Coroutines Test. Framework-agnostic patterns following GIVEN/WHEN/THEN structure.
+description: Writes unit tests for Android Kotlin code covering ViewModels, Use Cases, and Repositories using MockK and Kotlin Coroutines Test. Use when user asks to "write a unit test", "add tests for this class", "how do I test a ViewModel", or "apply GIVEN/WHEN/THEN".
 ---
 
 # Android Unit Test Editor
